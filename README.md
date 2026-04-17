@@ -1,5 +1,10 @@
 <div align="center">
 
+<!-- TACTICAL AVATAR -->
+<img src="https://raw.githubusercontent.com/Sk4saurav/Sk4saurav/main/assets/avatar.png" width="120" style="border-radius: 50%; border: 3px solid #8b5cf6;" alt="Tactical Avatar" />
+
+<br/><br/>
+
 <!-- INTEGRATED HERO CARD (BACKGROUND) -->
 <img src="https://raw.githubusercontent.com/Sk4saurav/Sk4saurav/main/assets/hero_card.png" width="100%" alt="Sk4saurav Hero" />
 
