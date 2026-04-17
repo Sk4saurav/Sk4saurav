@@ -1,13 +1,9 @@
 <div align="center">
 
-<!-- TACTICAL BANNER -->
-<img src="https://raw.githubusercontent.com/Sk4saurav/Sk4saurav/main/assets/banner.png" width="100%" alt="Tactical Banner" />
+<!-- INTEGRATED HERO CARD (BACKGROUND) -->
+<img src="https://raw.githubusercontent.com/Sk4saurav/Sk4saurav/main/assets/hero_card.png" width="100%" alt="Sk4saurav Hero" />
 
 <br/>
-
-<!-- HERO SECTION -->
-<h1>Hi 👋, I'm Saurav</h1>
-<h3>Offensive Security Engineer | Bug Bounty Hunter | Recon Automation</h3>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Recon+Automation+Engineer;Web+App+Pentester;Exploit+Developer;Autonomous+Agent+Architect&center=true&width=500&height=45&color=8b5cf6">
