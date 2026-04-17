@@ -41,7 +41,7 @@
 ---
 
 ### 🎯 Professional Summary
-Cybersecurity professional and B.Tech ECE candidate at **BIT Mesra**. Currently serving as a **VAPT Intern at CyArt** and **Joint Secretary of IETE Students' Chapter**, specializing in Ethical Hacking, SOC operations, and autonomous security research with a focus on threat management and redundancy systems.
+Saurav is a passionate Cybersecurity Engineer from India, working on Offensive Security and VAPT for 3+ years now. Feel free to reach out for any Freelance Projects.
 
 <table width="100%">
   <tr>
@@ -51,12 +51,6 @@ Cybersecurity professional and B.Tech ECE candidate at **BIT Mesra**. Currently 
         <li><b>Security</b>: VAPT, SOC, SIEM, Red/Blue Team</li>
         <li><b>Skills</b>: Ethical Hacking, Risk Management, Cybersecurity</li>
         <li><b>Programming</b>: Python, JavaScript, SQL, SystemVerilog</li>
-      </ul>
-      <br/>
-      <h4>🎓 Education</h4>
-      <ul>
-        <li><b>B.Tech ECE</b> | BIT Mesra (2023 - 2027)</li>
-        <li><b>Senior Secondary</b> | Chinmaya Vidyalaya</li>
       </ul>
     </td>
     <td width="50%" valign="top">
