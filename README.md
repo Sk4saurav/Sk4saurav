@@ -6,10 +6,10 @@
 <br/><br/>
 
 <h1>Saurav Kumar</h1>
-<h3>Cybersecurity Student & VAPT Intern @ Cyart LLP Tech</h3>
+<h3>VAPT Intern @CYART | Joint Secretary IETE | Security Researcher</h3>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Offensive+Security+Researcher;Vulnerability+Assessor;AI+Security+Architect;Penetration+Tester&center=true&width=500&height=45&color=8b5cf6">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Vulnerability+Assessor;Ethical+Hacker;SOC+Analyst;Red+Team+Operator&center=true&width=500&height=45&color=8b5cf6">
 </p>
 
 <!-- REAL GITHUB STATS -->
@@ -27,7 +27,7 @@
 <br/>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/saurav-kumar-a62b63280/">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:saurav10january@gmail.com">
@@ -41,24 +41,33 @@
 ---
 
 ### 🎯 Professional Summary
-Cybersecurity student with hands-on experience in vulnerability assessment, penetration testing, and application security. Actively building autonomous AI-driven pentesting frameworks that discover and exploit RBAC misconfigurations, injections, and IDORs.
+Cybersecurity professional and B.Tech ECE candidate at **BIT Mesra**. Currently serving as a **VAPT Intern at CyArt** and **Joint Secretary of IETE Students' Chapter**, specializing in Ethical Hacking, SOC operations, and autonomous security research with a focus on threat management and redundancy systems.
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🔍 Offensive Arsenal</h4>
       <ul>
-        <li><b>Security</b>: VAPT (PTES), OWASP Top 10, API Security</li>
-        <li><b>Tools</b>: Burp Suite, Nmap, Metasploit, MobSF, Frida</li>
+        <li><b>Security</b>: VAPT, SOC, SIEM, Red/Blue Team</li>
+        <li><b>Skills</b>: Ethical Hacking, Risk Management, Cybersecurity</li>
         <li><b>Programming</b>: Python, JavaScript, SQL, SystemVerilog</li>
+      </ul>
+      <br/>
+      <h4>🎓 Education</h4>
+      <ul>
+        <li><b>B.Tech ECE</b> | BIT Mesra (2023 - 2027)</li>
+        <li><b>Senior Secondary</b> | Chinmaya Vidyalaya</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🏆 Verified Achievements</h4>
+      <h4>📜 Global Certifications</h4>
       <ul>
-        <li><b>HackenProof</b>: Reported hardcoded keys in ZetaChain</li>
-        <li><b>YesWeHack</b>: Identified Oauth open redirect in EZVIZ</li>
-        <li><b>IIT Guwahati</b>: Finalist in Cybersecurity Hackathon</li>
+        <li><b>Junior Cybersecurity Analyst</b> - CISCO</li>
+        <li><b>Ethical Hacker</b> - CISCO</li>
+        <li><b>Ethical Hacking Essentials (EHE)</b> - EC-Council</li>
+        <li><b>Cybersecurity Analyst Simulation</b> - Tata</li>
+        <li><b>Mastercard Security Simulation</b> - Forage</li>
+        <li><b>Ethos finalist</b> - IIT Guwahati</li>
       </ul>
     </td>
   </tr>
@@ -68,7 +77,7 @@ Cybersecurity student with hands-on experience in vulnerability assessment, pene
 
 ---
 
-### 🚀 Real-World Projects
+### 🚀 Technical Projects
 
 #### 1. [GetCodeChecked](https://github.com/Sk4saurav) — AI Static Code Security Analyzer
 *Built an AI-powered static code analysis tool that scans for hardcoded secrets and injection flaws using LLM-based reasoning.*
