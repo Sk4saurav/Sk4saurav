@@ -1,20 +1,18 @@
 <div align="center">
 
-<!-- TACTICAL AVATAR -->
-<img src="https://raw.githubusercontent.com/Sk4saurav/Sk4saurav/main/assets/avatar.png" width="120" style="border-radius: 50%; border: 3px solid #8b5cf6;" alt="Tactical Avatar" />
+<!-- AUTHENTIC AVATAR -->
+<img src="https://raw.githubusercontent.com/Sk4saurav/Sk4saurav/main/assets/avatar.png" width="150" style="border-radius: 50%; border: 4px solid #8b5cf6;" alt="Saurav Kumar" />
 
 <br/><br/>
 
-<!-- INTEGRATED HERO CARD (BACKGROUND) -->
-<img src="https://raw.githubusercontent.com/Sk4saurav/Sk4saurav/main/assets/hero_card.png" width="100%" alt="Sk4saurav Hero" />
-
-<br/>
+<h1>Saurav Kumar</h1>
+<h3>Cybersecurity Student & VAPT Intern @ Cyart LLP Tech</h3>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Recon+Automation+Engineer;Web+App+Pentester;Exploit+Developer;Autonomous+Agent+Architect&center=true&width=500&height=45&color=8b5cf6">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Offensive+Security+Researcher;Vulnerability+Assessor;AI+Security+Architect;Penetration+Tester&center=true&width=500&height=45&color=8b5cf6">
 </p>
 
-<!-- DASHBOARD HERO STATS -->
+<!-- REAL GITHUB STATS -->
 <table>
   <tr>
     <td align="center" width="250">
@@ -29,13 +27,10 @@
 <br/>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/saurav">
+<a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://twitter.com/saurav">
-  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-</a>
-<a href="mailto:saurav@example.com">
+<a href="mailto:saurav10january@gmail.com">
   <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 
@@ -45,43 +40,25 @@
 
 ---
 
-### 📊 Tactical Data Center
+### 🎯 Professional Summary
+Cybersecurity student with hands-on experience in vulnerability assessment, penetration testing, and application security. Actively building autonomous AI-driven pentesting frameworks that discover and exploit RBAC misconfigurations, injections, and IDORs.
 
 <table width="100%">
   <tr>
-    <!-- LEFT COLUMN: FOCUS & STACK -->
     <td width="50%" valign="top">
-      <h4>🔍 Offensive Focus</h4>
+      <h4>🔍 Offensive Arsenal</h4>
       <ul>
-        <li><b>Web Security</b>: IDOR, SSTI, Logic Flaws</li>
-        <li><b>Automation</b>: Autonomous Recon Agents (CyTrack)</li>
-        <li><b>Auditing</b>: Smart Contract Security (Web3)</li>
+        <li><b>Security</b>: VAPT (PTES), OWASP Top 10, API Security</li>
+        <li><b>Tools</b>: Burp Suite, Nmap, Metasploit, MobSF, Frida</li>
+        <li><b>Programming</b>: Python, JavaScript, SQL, SystemVerilog</li>
       </ul>
-      <br/>
-      <h4>🛠️ Arsenal</h4>
-      <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
-      <img src="https://img.shields.io/badge/Go-black?style=flat-square&logo=go" />
-      <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust" />
-      <br/>
-      <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker" />
-      <img src="https://img.shields.io/badge/BurpSuite-black?style=flat-square&logo=portswigger" />
-      <img src="https://img.shields.io/badge/Nmap-black?style=flat-square" />
     </td>
-    <!-- RIGHT COLUMN: RECORDS -->
     <td width="50%" valign="top">
-      <h4>⚔️ CTF Records [Rank #842]</h4>
+      <h4>🏆 Verified Achievements</h4>
       <ul>
-        <li><b>Global Points</b>: 124,500</li>
-        <li><b>First Bloods</b>: 14</li>
-        <li><b>Events Won</b>: 03</li>
-      </ul>
-      <br/>
-      <h4>🚀 Operational Status</h4>
-      <ul>
-        <li><b>Current Objective</b>: Enhancing CyTrack recon kernels</li>
-        <li><b>Security State</b>: COMPROMISE_DETECTION_ACTIVE</li>
-        <li><b>Last Audit</b>: 2026-04-18</li>
+        <li><b>HackenProof</b>: Reported hardcoded keys in ZetaChain</li>
+        <li><b>YesWeHack</b>: Identified Oauth open redirect in EZVIZ</li>
+        <li><b>IIT Guwahati</b>: Finalist in Cybersecurity Hackathon</li>
       </ul>
     </td>
   </tr>
@@ -91,20 +68,23 @@
 
 ---
 
-### 📅 Contribution Matrix
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sk4saurav&theme=react-dark&bg_color=0D1117&color=8b5cf6&line=06b6d4&point=ec4899" width="100%" />
+### 🚀 Real-World Projects
+
+#### 1. [GetCodeChecked](https://github.com/Sk4saurav) — AI Static Code Security Analyzer
+*Built an AI-powered static code analysis tool that scans for hardcoded secrets and injection flaws using LLM-based reasoning.*
+
+#### 2. [BizPulse](https://github.com/Sk4saurav) — AI Business Analytics SaaS
+*Architected a distributed SaaS using Next.js and Supabase that generates consultant-grade financial reports using Claude AI.*
+
+#### 3. [ChronoCore](https://github.com/Sk4saurav) — FPGA BCD Alarm Clock
+*Designed a synthesisable BCD alarm clock in SystemVerilog using a Moore FSM, securing 100% state coverage.*
 
 <br/>
 
 ---
 
-### 📡 Tactical Command Center (Live Simulation)
-
-```bash
-[+] Initializing CyTrack node_01...
-[+] Scanning target: delta-internal.net
-[+] Status: ACTIVE_MONITORING [98% Analyze Mode]
-```
+### 📅 Operational Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sk4saurav&theme=react-dark&bg_color=0D1117&color=8b5cf6&line=06b6d4&point=ec4899" width="100%" />
 
 <br/>
 
@@ -112,7 +92,5 @@
 
 ### 🧪 Achievements & Intelligence
 <img src="https://github-profile-trophy.vercel.app/?username=Sk4saurav&theme=matrix&column=7" width="100%" alt="trophies" />
-
-<br/>
 
 </div>
