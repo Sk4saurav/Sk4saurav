@@ -95,11 +95,33 @@ Cybersecurity professional and B.Tech ECE candidate at **BIT Mesra**. Currently 
 ### 📅 Operational Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sk4saurav&theme=react-dark&bg_color=0D1117&color=8b5cf6&line=06b6d4&point=ec4899" width="100%" />
 
+---
+
+### 🛡️ Operational Certification Vault
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Junior_Cybersecurity_Analyst-CISCO-8b5cf6?style=for-the-badge&logo=cisco&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Ethical_Hacker-CISCO-06b6d4?style=for-the-badge&logo=cisco&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Ethical_Hacking_Essentials-EC_Council-ec4899?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cybersecurity_Analyst-TATA-0D1117?style=for-the-badge&logo=tata&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Security_Simulation-MASTERCARD-f97316?style=for-the-badge&logo=mastercard&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cyber_&_Blockchain-BIT_MESRA-10b981?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 <br/>
-
-<div align="center">
-
-### 🧪 Achievements & Intelligence
-<img src="https://github-profile-trophy.vercel.app/?username=Sk4saurav&theme=matrix&column=7" width="100%" alt="trophies" />
-
-</div>
