@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td align="center" width="250">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sk4saurav&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&cache_buster=1713437280" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Sk4saurav&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&include_all_commits=true&cache_buster=1713437280" width="100%" />
     </td>
     <td align="center" width="250">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sk4saurav&theme=radical&background=0D1117&hide_border=true&ring=8b5cf6&fire=f97316&cache_buster=1713437280" width="100%" />
